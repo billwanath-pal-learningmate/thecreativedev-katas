@@ -26,7 +26,7 @@ This outlines the requirements and technical specifications for building a next-
 - [Architecture](/Architecture.md)
 - [High Level Design](/HighLevelDesign.md)
 - [Queue Mechanism](/QueueMechanism.md)
-- [NotificationEngine](/NotificationEngine.md)
+- [Notification Engine](/NotificationEngine.md)
 - [Social Media Sharing](/SocialMediaSharing.md)
 - [Solution Document](/resources/The-Road-Warrior-Architecture.pdf)
 
