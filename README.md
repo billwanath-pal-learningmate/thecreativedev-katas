@@ -6,8 +6,8 @@ This outlines the requirements and technical specifications for building a next-
 
 **Useful Links**
 
-[High Level Design](/HighLevelDesign.md)
-[Queue Mechanism](/QueueMechanism.md)
-[Social Media Sharing](/SocialMediaSharing.md)
-[Solution Document](/resources/The-Road-Warrior-Architecture.pdf)
++[High Level Design](/HighLevelDesign.md)
++[Queue Mechanism](/QueueMechanism.md)
++[Social Media Sharing](/SocialMediaSharing.md)
++[Solution Document](/resources/The-Road-Warrior-Architecture.pdf)
 
