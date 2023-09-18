@@ -5,8 +5,7 @@ This technical document outlines the requirements and specifications for the dev
 
 **System Requirements**
 
-1. **Email Integration**
-
+1. **Email Integration**\
         **Email Polling:** The system must continuously poll the user's email account(s) to search for travel-related emails, such as booking confirmations and updates.
 
        **Email Filtering:** Implement email filtering mechanisms to identify and whitelist certain emails from trusted sources while discarding irrelevant emails.
