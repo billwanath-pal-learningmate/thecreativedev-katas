@@ -33,3 +33,19 @@ The system performs batch Process analysis by collecting a wide range of informa
 4. **Hotel Preferences**: The system identifies users' preferred hotel choices, both in destination cities and at specific tourist spots. This information aids in providing personalized recommendations and enhancing the overall travel experience.\
  
 In summary, batch data analysis harnesses data from various sources to extract valuable insights that benefit both travelers and service providers. By uncovering trends and preferences, the system can enhance user experiences, streamline bookings, and optimize travel-related services.
+
+**Real-Time Data Insights**\
+\
+We leverage real-time data, including GPS location information from our users, to provide timely assessments of ongoing trips. This data, sourced from multiple users, undergoes comprehensive processing and analysis in the backend. The resulting insights are then presented to users in the form of various trends, encompassing:
+
+1. **Visitor Trends:** We track and display the number of visitors to specific tourist destinations, offering users valuable insights into the popularity of these spots.
+
+2. **Time Allocation:** Our system calculates the average time spent by users at particular locations, helping users plan their itineraries more effectively.
+
+3. **Dining Preferences:** We gather and showcase users' restaurant preferences, allowing individuals to discover dining options that align with their tastes.
+
+4. **Accommodation Choices:** Users' preferred accommodation types and locations are presented, aiding travelers in selecting lodging that suits their preferences.
+
+5. **Optimized Itineraries:** Our system generates optimized plans for visiting tourist destinations in a given location, ensuring users make the most of their trips.
+\
+Moreover, we incorporate real-time weather updates from places on the itinerary. This information empowers users to make informed decisions regarding their upcoming bookings, accounting for any weather-related considerations that may affect their travel plans.
