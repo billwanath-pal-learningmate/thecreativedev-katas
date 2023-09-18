@@ -6,23 +6,25 @@ This technical document outlines the requirements and specifications for the dev
 **System Requirements**
 
 1. **Email Integration**
-       **Email Polling:** The system must continuously poll the user's email account(s) to search for travel-related emails, such as booking confirmations and updates.
+
+        **Email Polling:** The system must continuously poll the user's email account(s) to search for travel-related emails, such as booking confirmations and updates.
+
        **Email Filtering:** Implement email filtering mechanisms to identify and whitelist certain emails from trusted sources while discarding irrelevant emails.
    
-2. **Integration with Travel Service Providers**
+3. **Integration with Travel Service Providers**
 **API Integration**: Interface with existing airline, hotel, and car rental service providers through APIs to retrieve and update travel details. This includes information on delays, cancellations, gate changes, and other updates.
 Real-time Updates: Ensure that travel updates are reflected in the dashboard within 5 minutes of receiving the information, surpassing competitor offerings.
 
-3. **Reservation Management**
+4. **Reservation Management**
 Manual Reservation Management: Provide users with the capability to manually add, update, or delete existing travel reservations through the dashboard.
    **Reservation Grouping**: Allow users to group reservations by trip, providing a clear and organized view of all reservations associated with a particular journey.
     **Automatic Removal**: Implement a feature to automatically remove items from the dashboard once a trip is marked as complete by the user.
    
-4. **Social Sharing**
+5. **Social Sharing**
       **Social Media Integration:** Enable users to share their trip information with friends and followers by integrating with popular social media platforms.
       **Selective Sharing:** Allow users to choose specific individuals or groups of people who can view their trip details, maintaining privacy and security.
 
-5. **User Interface**
+6. **User Interface**
       **Cross-Platform Compatibility:** Develop a responsive and visually appealing user interface that works seamlessly across various deployment platforms, including web browsers and mobile devices.
       **Rich User Experience:** Enhance the user interface with intuitive design elements, interactive features, and a user-friendly navigation system to provide the richest user experience possible.
       
