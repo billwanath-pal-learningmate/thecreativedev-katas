@@ -1,6 +1,6 @@
 **Data Warehouse and Data Lake Architecture - Report Analytics**\
 \
-In architecture, We have a combination of a Data Lake and Data Warehouse to manage and analyze your data effectively. Below, I've detailed the components and processes involved in ELTV (Extract, Load, Transform, and Visualize) approach.\
+In architecture, We have a combination of a Data Lake and Data Warehouse to manage and analyze data effectively. Below, I've detailed the components and processes involved in ELTV (Extract, Load, Transform, and Visualize) approach.\
 \
 **Data Ingestion (Extract):**
 \
@@ -11,11 +11,11 @@ In architecture, We have a combination of a Data Lake and Data Warehouse to mana
 
 #### Amazon Aurora to AWS DMS (Database Migration Service):
 - Amazon Aurora databases are a source of structured data.
-- AWS DMS is used to replicate data from Aurora to your Data Lake or Data Warehouse.
+- AWS DMS is used to replicate data from Aurora to Data Lake or Data Warehouse.
 
 #### Client to Kinesis Firehose:
 - Clients generate data that is sent to Kinesis Firehose in real-time.
-- Kinesis Firehose collects and delivers this data to your data storage (S3 or Data Lake).
+- Kinesis Firehose collects and delivers this data to data storage (S3 or Data Lake).
 
 #### Google Analytics to Amazon AppFlow:
 - Google Analytics data is extracted and transferred to Amazon AppFlow.
