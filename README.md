@@ -33,6 +33,6 @@ This outlines the requirements and technical specifications for building a next-
 - [Queue Mechanism](/QueueMechanism.md)
 - [Notification Engine](/NotificationEngine.md)
 - [Social Media Sharing](/SocialMediaSharing.md)
-- [Well Architected Pillars](/WellArchitectedPillars.md)
+- [Architecture Characteristics](/ArchitectureCharacteristics.md)
 - [Solution Document](/resources/The-Road-Warrior-Architecture.pdf)
 
