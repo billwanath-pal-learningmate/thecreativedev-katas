@@ -35,4 +35,5 @@ This outlines the requirements and technical specifications for building a next-
 - [Social Media Sharing](/SocialMediaSharing.md)
 - [Architecture Characteristics](/ArchitectureCharacteristics.md)
 - [Solution Document](/resources/The-Road-Warrior-Architecture.pdf)
+- [Analytical Data Warehouse](/DataWarehouseForReport.md)
 
