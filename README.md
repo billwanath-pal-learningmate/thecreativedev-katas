@@ -29,10 +29,10 @@ This outlines the requirements and technical specifications for building a next-
 **Useful Links**
 
 - [Architecture](/Architecture.md)
-- [Well Architected Pillars](/WellArchitectedPillars.md)
 - [High Level Design](/HighLevelDesign.md)
 - [Queue Mechanism](/QueueMechanism.md)
 - [Notification Engine](/NotificationEngine.md)
 - [Social Media Sharing](/SocialMediaSharing.md)
+- [Well Architected Pillars](/WellArchitectedPillars.md)
 - [Solution Document](/resources/The-Road-Warrior-Architecture.pdf)
 
